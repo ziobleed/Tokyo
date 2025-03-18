@@ -2,3 +2,4 @@ file1
 linea3
 riga4
 linea2
+altra linea
